@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">:computer: Self-taught Front-end Developer.</h3>
+<h3 align="center">:computer: Self-taught Fullstack Developer.</h3>
 
 - 📫 How to reach me **adrian.robakowski7@gmail.com**
 
