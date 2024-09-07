@@ -22,3 +22,5 @@
 <h3 align="left">Find me on:</h3>
 <a href="https://www.linkedin.com/in/adrian-robakowski-5a1a58276/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.codewars.com/users/ARobakowski" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
+  
+<img href="https://tryhackme.com/p/adrian.robakowsk" src="https://tryhackme-badges.s3.amazonaws.com/adrian.robakowsk.png" alt="TryHackMe">
